@@ -1,0 +1,356 @@
+SPACECRAFT STATE:
+	 avg altitude:751.5	 theta angle:358.69
+	 inclination:97.45	 RAAN:325.66
+	 total mass:8540
+----------------------------------------
+MANOUVER NUMBER: 1
+RAAN MANOUVER to ARIANE 40 R/B
+	 debris RAAN: 330.1 
+	 DV: 0.9024719219457198 km/s 	 time used: 0.6408057557298515 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:751.5	 theta angle:4.496413262830799
+	 inclination:97.45	 RAAN:330.1
+	 total mass:8282.095157839762
+
+
+----------------------------------------
+MANOUVER NUMBER: 2
+INCLINATION MANOUVER to ARIANE 40 R/B
+	 debris inclination: 98.28 
+	 DV: 0.3402538469644417 km/s 	 time used: 0.23882218628025736 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:751.5	 theta angle:6.660408042023343
+	 inclination:98.28	 RAAN:330.1
+	 total mass:8186.893419794409
+
+
+----------------------------------------
+MANOUVER NUMBER: 3
+RENDEZVOUS MANOUVER to ARIANE 40 R/B
+	 avg altitude:751.5	 theta angle:8.070408042023354 
+	 parking orbit:691.9618905392808
+	 DV: 0.006595908512676833 km/s 	 time used: 1.0250462962958713 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:751.5	 theta angle:8.070408042023354
+	 inclination:98.28	 RAAN:330.1
+	 total mass:7660.1764138408835
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 4
+RAAN MANOUVER to SL-3 R/B
+	 debris RAAN: 330.22 
+	 DV: 0.024342371568746128 km/s 	 time used: 0.01597331038994085 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:751.5	 theta angle:8.21514400993586
+	 inclination:98.28	 RAAN:330.22
+	 total mass:7653.843088463999
+
+
+----------------------------------------
+MANOUVER NUMBER: 5
+INCLINATION MANOUVER to SL-3 R/B
+	 debris inclination: 99.0 
+	 DV: 0.29516626801852436 km/s 	 time used: 0.191753385144368 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:751.5	 theta angle:9.952643070672046
+	 inclination:99.0	 RAAN:330.22
+	 total mass:7577.463032407012
+
+
+----------------------------------------
+MANOUVER NUMBER: 6
+RENDEZVOUS MANOUVER to SL-3 R/B
+	 avg altitude:891.0	 theta angle:30.17236924944819 
+	 parking orbit:830.2969551104852
+	 DV: 0.053519231735653955 km/s 	 time used: 1.7846296296285138 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:891.0	 theta angle:30.17236924944819
+	 inclination:99.0	 RAAN:330.22
+	 total mass:7039.649596566239
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 7
+RAAN MANOUVER to ATLAS F BURNER 2 R/B
+	 debris RAAN: 330.9 
+	 DV: 0.13634950235588553 km/s 	 time used: 0.08191152238019167 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:891.0	 theta angle:30.893316322269406
+	 inclination:99.0	 RAAN:330.9
+	 total mass:7007.110261017504
+
+
+----------------------------------------
+MANOUVER NUMBER: 8
+INCLINATION MANOUVER to ATLAS F BURNER 2 R/B
+	 debris inclination: 98.58 
+	 DV: 0.1705274927296735 km/s 	 time used: 0.10185196127394355 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:891.0	 theta angle:31.789769851734103
+	 inclination:98.58	 RAAN:330.9
+	 total mass:6966.62606880957
+
+
+----------------------------------------
+MANOUVER NUMBER: 9
+RENDEZVOUS MANOUVER to ATLAS F BURNER 2 R/B
+	 avg altitude:705.5	 theta angle:37.56729898926691 
+	 parking orbit:646.346026953077
+	 DV: 0.10293648502402271 km/s 	 time used: 4.696666666675637 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:705.5	 theta angle:37.56729898926691
+	 inclination:98.58	 RAAN:330.9
+	 total mass:6419.1347306883945
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 10
+RAAN MANOUVER to CZ-4C R/B
+	 debris RAAN: 332.86 
+	 DV: 0.39857152323267603 km/s 	 time used: 0.21639816869719367 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:705.5	 theta angle:39.54723795018393
+	 inclination:98.58	 RAAN:332.86
+	 total mass:6332.786194086875
+
+
+----------------------------------------
+MANOUVER NUMBER: 11
+INCLINATION MANOUVER to CZ-4C R/B
+	 debris inclination: 98.59 
+	 DV: 0.00411308785461427 km/s 	 time used: 0.002232824580501939 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:705.5	 theta angle:39.56766721909339
+	 inclination:98.59	 RAAN:332.86
+	 total mass:6331.901196264875
+
+
+----------------------------------------
+MANOUVER NUMBER: 12
+RENDEZVOUS MANOUVER to CZ-4C R/B
+	 avg altitude:705.5	 theta angle:83.65990388715691 
+	 parking orbit:646.346026953077
+	 DV: 0.006652030518866294 km/s 	 time used: 31.58564814790895 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:705.5	 theta angle:83.65990388715691
+	 inclination:98.59	 RAAN:332.86
+	 total mass:5805.588817100076
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 13
+RAAN MANOUVER to ELECTRON KICK STAGE R/B
+	 debris RAAN: 333.24 
+	 DV: 0.0772720347718513 km/s 	 time used: 0.03836019606017803 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:705.5	 theta angle:84.01088119526085
+	 inclination:98.59	 RAAN:333.24
+	 total mass:5790.365533494503
+
+
+----------------------------------------
+MANOUVER NUMBER: 14
+INCLINATION MANOUVER to ELECTRON KICK STAGE R/B
+	 debris inclination: 97.39 
+	 DV: 0.4934815198192866 km/s 	 time used: 0.24090572675202868 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:705.5	 theta angle:86.2150525021438
+	 inclination:97.39	 RAAN:333.24
+	 total mass:5694.082319160928
+
+
+----------------------------------------
+MANOUVER NUMBER: 15
+RENDEZVOUS MANOUVER to ELECTRON KICK STAGE R/B
+	 avg altitude:726.5	 theta angle:16.45215178693746 
+	 parking orbit:785.5826409058418
+	 DV: 0.017070353843132213 km/s 	 time used: 55.9083796308062 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:726.5	 theta angle:16.45215178693746
+	 inclination:97.39	 RAAN:333.24
+	 total mass:5166.084953251623
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 16
+RAAN MANOUVER to ARIANE 40 R/B(2)
+	 debris RAAN: 334.76 
+	 DV: 0.30953966486083173 km/s 	 time used: 0.1356633403528195 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:726.5	 theta angle:17.687906664644363
+	 inclination:97.39	 RAAN:334.76
+	 total mass:5112.033711694815
+
+
+----------------------------------------
+MANOUVER NUMBER: 17
+INCLINATION MANOUVER to ARIANE 40 R/B(2)
+	 debris inclination: 98.38 
+	 DV: 0.4065435414860321 km/s 	 time used: 0.17573325644688523 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:726.5	 theta angle:19.28865767272643
+	 inclination:98.38	 RAAN:334.76
+	 total mass:5041.902020393784
+
+
+----------------------------------------
+MANOUVER NUMBER: 18
+RENDEZVOUS MANOUVER to ARIANE 40 R/B(2)
+	 avg altitude:761.0	 theta angle:158.0246687299235 
+	 parking orbit:701.3825580190396
+	 DV: 0.00010710243828931544 km/s 	 time used: 36.497361111157815 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:761.0	 theta angle:158.0246687299235
+	 inclination:98.38	 RAAN:334.76
+	 total mass:4516.8855823937965
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 19
+RAAN MANOUVER to IRS-P2 R/B
+	 debris RAAN: 335.64 
+	 DV: 0.1783463316725007 km/s 	 time used: 0.06864737376338578 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:761.0	 theta angle:158.64544916326992
+	 inclination:98.38	 RAAN:335.64
+	 total mass:4489.595945525089
+
+
+----------------------------------------
+MANOUVER NUMBER: 20
+INCLINATION MANOUVER to IRS-P2 R/B
+	 debris inclination: 98.92 
+	 DV: 0.22123364658909922 km/s 	 time used: 0.08451741575566599 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:761.0	 theta angle:159.40974290244435
+	 inclination:98.92	 RAAN:335.64
+	 total mass:4455.972916294469
+
+
+----------------------------------------
+MANOUVER NUMBER: 21
+RENDEZVOUS MANOUVER to IRS-P2 R/B
+	 avg altitude:835.0	 theta angle:110.2543941852889 
+	 parking orbit:894.9849342811685
+	 DV: 0.04435395001555717 km/s 	 time used: 40.39643518545884 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:835.0	 theta angle:110.2543941852889
+	 inclination:98.92	 RAAN:335.64
+	 total mass:3925.053009476951
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 22
+RAAN MANOUVER to ARIANE 40 R/B(3)
+	 debris RAAN: 337.28 
+	 DV: 0.3301896363570966 km/s 	 time used: 0.1098724705919216 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:835.0	 theta angle:111.23272399193837
+	 inclination:98.92	 RAAN:337.28
+	 total mass:3881.2620260382378
+
+
+----------------------------------------
+MANOUVER NUMBER: 23
+INCLINATION MANOUVER to ARIANE 40 R/B(3)
+	 debris inclination: 98.52 
+	 DV: 0.1630366850607707 km/s 	 time used: 0.05395166831188005 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:835.0	 theta angle:111.71312208386823
+	 inclination:98.52	 RAAN:337.28
+	 total mass:3859.8200089458696
+
+
+----------------------------------------
+MANOUVER NUMBER: 24
+RENDEZVOUS MANOUVER to ARIANE 40 R/B(3)
+	 avg altitude:761.5	 theta angle:146.42874560085085 
+	 parking orbit:701.8783826232375
+	 DV: 0.04476892694465131 km/s 	 time used: 25.305601851613467 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:761.5	 theta angle:146.42874560085085
+	 inclination:98.52	 RAAN:337.28
+	 total mass:3329.750936023398
+
+
+
+----------------------------------------
+MANOUVER NUMBER: 25
+RAAN MANOUVER to ARIANE 40 R/B(4)
+	 debris RAAN: 337.8 
+	 DV: 0.10534453164342009 km/s 	 time used: 0.029965510475533662 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:761.5	 theta angle:146.6996962214157
+	 inclination:98.52	 RAAN:337.8
+	 total mass:3317.8534161574185
+
+
+----------------------------------------
+MANOUVER NUMBER: 26
+INCLINATION MANOUVER to ARIANE 40 R/B(4)
+	 debris inclination: 98.56 
+	 DV: 0.01638769901304783 km/s 	 time used: 0.004658926206704732 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:761.5	 theta angle:146.74182261695645
+	 inclination:98.56	 RAAN:337.8
+	 total mass:3316.006428464259
+
+
+----------------------------------------
+MANOUVER NUMBER: 27
+RENDEZVOUS MANOUVER to ARIANE 40 R/B(4)
+	 avg altitude:784.0	 theta angle:356.8077706567807 
+	 parking orbit:843.5608148144256
+	 DV: 0.017750267157129636 km/s 	 time used: 120.53625000493841 days
+
+SPACECRAFT STATE AFTER MANOUVER:
+	 avg altitude:784.0	 theta angle:356.8077706567807
+	 inclination:98.56	 RAAN:337.8
+	 total mass:2789.3235819554725
+
+
+
+----------------------------------------
+LAST MANOUVER: spacecraft decayment
+	 DV: 0.34624503434236775 km/s 	 time used: 0.08280087786575349 days
+
+
+
+----------------------------------------
+
+
+TOTAL DV: 5.213170596476566 km/s  Total time of the mission: 320.2508444015427 days

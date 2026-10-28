@@ -1,0 +1,85 @@
+DEBRIS DECAYMENT DATA 
+
+N-2 R/B
+time decay active manouver: 0.9035781847149086days
+initial altitude: 715.5km 	 final altitude: 191.42791839370003km
+DV: 0.2932552776349553
+Mass of debris: 1417.0kg
+
+
+----------------------------------------
+ARIANE 40 R/B
+time decay active manouver: 1.4109157649221544days
+initial altitude: 751.5km 	 final altitude: 193.22961282937297km
+DV: 0.3111364984546743
+Mass of debris: 2289.0kg
+
+
+----------------------------------------
+SL-3 R/B
+time decay active manouver: 1.06612223707216days
+initial altitude: 891.0km 	 final altitude: 185.23806216606914km
+DV: 0.38796991831534733
+Mass of debris: 1952.0kg
+
+
+----------------------------------------
+ATLAS F BURNER 2 R/B
+time decay active manouver: 0.4371362619733689days
+initial altitude: 705.5km 	 final altitude: 186.2496836125273km
+DV: 0.291037673197045
+Mass of debris: 679.0kg
+
+
+----------------------------------------
+CZ-4C R/B
+time decay active manouver: 0.9817581746536989days
+initial altitude: 705.5km 	 final altitude: 185.05062015205243km
+DV: 0.2917494590774634
+Mass of debris: 1525.0kg
+
+
+----------------------------------------
+ELECTRON KICK STAGE R/B
+time decay active manouver: 0.3659363200775105days
+initial altitude: 726.5km 	 final altitude: 186.95848483150976km
+DV: 0.3017115517284683
+Mass of debris: 580.0kg
+
+
+----------------------------------------
+ARIANE 40 R/B(2)
+time decay active manouver: 1.3986200443302559days
+initial altitude: 761.0km 	 final altitude: 193.22961282937297km
+DV: 0.3161130402846739
+Mass of debris: 2289.0kg
+
+
+----------------------------------------
+IRS-P2 R/B
+time decay active manouver: 0.8222595525172971days
+initial altitude: 835.0km 	 final altitude: 184.80490579875774km
+DV: 0.3595377242839515
+Mass of debris: 1437.0kg
+
+
+----------------------------------------
+ARIANE 40 R/B(3)
+time decay active manouver: 1.397979218942362days
+initial altitude: 761.5km 	 final altitude: 193.22961282937297km
+DV: 0.3163746883616696
+Mass of debris: 2289.0kg
+
+
+----------------------------------------
+ARIANE 40 R/B(4)
+time decay active manouver: 1.3697733960054084days
+initial altitude: 784.0km 	 final altitude: 193.22961282937297km
+DV: 0.32812047873283756
+Mass of debris: 2289.0kg
+
+
+----------------------------------------
+
+TOTAL DV OF DEBRIS DECAYMENT SYSTEM: 3.197006310071086 km/s
+AVERAGE DV FOR EACH THRUSTER: 0.3197006310071086 km/s

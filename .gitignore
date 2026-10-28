@@ -1,0 +1,22 @@
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editor and operating-system files
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated data and simulation outputs
+input/Debris_excel.csv
+output/*
+!output/.gitkeep
+simulation_results/
+
+# Local run artifacts
+*.log
